@@ -8,7 +8,7 @@
  [arXiv:1802.02611](https://arxiv.org/abs/1802.02611)
 - [x] CCNet: CCNet: Criss-Cross Attention for Semantic Segmentation [arXiv:1811.11721v1](https://arxiv.org/abs/1811.11721v1)
 - [x] HRNet: High-Resolution Representations for Labeling Pixels and Regions [arXiv:1904.04514v1](https://arxiv.org/abs/1904.04514v1)
-- [ ] OCNet: OCNet: Object Context Network for Scene Parsing [arXiv:1809.00916v3](https://arxiv.org/abs/1809.00916v3)
+- [x] OCNet: OCNet: Object Context Network for Scene Parsing [arXiv:1809.00916v3](https://arxiv.org/abs/1809.00916v3)
 - [ ] OCR: Object-Contextual Representations for Semantic Segmentation [arXiv:1909.11065v2](https://arxiv.org/abs/1909.11065v2)
 
 ### Real-time
